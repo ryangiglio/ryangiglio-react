@@ -11,6 +11,20 @@
   color: #333333;
 }
 
+.Navigation__link--active::after {
+  display: inline-block;
+
+  margin-left: 10px;
+
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  content: "\f00c";
+}
+
 .Navigation__link--home.Navigation__link--active {
   display: none;
 }

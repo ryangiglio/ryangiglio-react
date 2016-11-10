@@ -16,7 +16,7 @@ a:hover {
   text-decoration: none;
 }
 
-a::after {
+a::before {
   position: absolute;
   bottom: -3px;
   left: 0;
@@ -34,7 +34,7 @@ a::after {
   content: '';
 }
 
-a:hover::after {
+a:hover::before {
   bottom: 0;
   opacity: 1;
   transition: all .3s
