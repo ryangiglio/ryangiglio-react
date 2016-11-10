@@ -1,0 +1,16 @@
+.Navigation {
+}
+
+.Navigation__link {
+  position: relative;
+
+  display: inline-block;
+}
+
+.Navigation__link--active {
+  color: #333333;
+}
+
+.Navigation__link--home.Navigation__link--active {
+  display: none;
+}

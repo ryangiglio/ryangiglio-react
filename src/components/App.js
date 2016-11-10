@@ -5,7 +5,7 @@ class App extends Component {
     return (
       <div className="container-fluid">
         <div className="row">
-          <div className="col-xs-12">
+          <div className="col-xs-12 col-md-10 col-md-offset-1">
             {this.props.children}
           </div>
         </div>
