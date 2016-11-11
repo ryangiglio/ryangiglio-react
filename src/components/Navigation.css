@@ -1,10 +1,16 @@
 .Navigation {
+  margin-top: 40px;
 }
 
 .Navigation__link {
   position: relative;
 
   display: inline-block;
+
+  opacity: 1;
+
+  transition: opacity 300ms ease-out;
+  transition-delay: 300ms;
 }
 
 .Navigation__link--active {
@@ -26,5 +32,8 @@
 }
 
 .Navigation__link--home.Navigation__link--active {
-  display: none;
+  opacity: 0;
+
+  transition: opacity 300ms ease-in;
+  transition-delay: 300ms;
 }
