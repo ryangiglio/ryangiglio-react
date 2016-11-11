@@ -2,6 +2,7 @@ import React from 'react';
 
 import Header from './Header';
 import Navigation from './Navigation.js';
+import Footer from './Footer';
 
 const Work = () => {
   return (
@@ -140,6 +141,7 @@ const Work = () => {
         </ul>
       </section>
       <Navigation />
+      <Footer />
     </div>
   );
 }

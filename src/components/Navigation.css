@@ -1,5 +1,5 @@
 .Navigation {
-  margin-top: 40px;
+  margin: 40px 0 80px;
 }
 
 .Navigation__link {
@@ -33,6 +33,8 @@
 
 .Navigation__link--home.Navigation__link--active {
   opacity: 0;
+
+  cursor: default;
 
   transition: opacity 300ms ease-in;
   transition-delay: 300ms;

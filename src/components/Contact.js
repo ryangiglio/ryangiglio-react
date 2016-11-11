@@ -2,6 +2,7 @@ import React from 'react';
 
 import Header from './Header';
 import Navigation from './Navigation.js';
+import Footer from './Footer';
 
 const Contact = () => {
   return (
@@ -19,6 +20,7 @@ const Contact = () => {
       <h2>LinkedIn</h2>
       <p className="lead"><a href="https://www.linkedin.com/in/ryangiglio" target="_blank">in/ryangiglio</a></p>
       <Navigation />
+      <Footer />
     </div>
   );
 }

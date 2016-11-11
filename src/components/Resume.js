@@ -2,6 +2,7 @@ import React from 'react';
 
 import Header from './Header';
 import Navigation from './Navigation.js';
+import Footer from './Footer';
 
 import './Resume.css';
 
@@ -61,6 +62,7 @@ const Resume = () => {
         <p><em>Game Development</em> - I studied Game Design &amp; Development in college, and attend the annual Global Game Jam every year. My games have won multiple GGJ awards, including Best Use of the Theme, and Best Use of a Controller (twice!)</p>
       </section>
       <Navigation />
+      <Footer />
     </div>
   );
 }

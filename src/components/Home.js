@@ -1,8 +1,8 @@
 import React from 'react';
 
 import Header from './Header';
-import Navigation from './Navigation.js';
-// import './TodoList.css';
+import Navigation from './Navigation';
+import Footer from './Footer';
 
 const Home = () => {
   return (
@@ -16,6 +16,7 @@ const Home = () => {
         I play games on YouTube at <a href="http://youtube.com/SwordfishPlays/" target="_blank">Swordfish Plays</a>.
       </p>
       <Navigation />
+      <Footer />
     </div>
   );
 }
