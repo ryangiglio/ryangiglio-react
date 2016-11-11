@@ -1,7 +1,6 @@
 // React
 import React from 'react';
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
-import { animateScroll } from 'react-scroll';
 
 import App from '../components/App';
 import Home from '../components/Home';
@@ -14,12 +13,6 @@ const routes = (
   <Router
     history={browserHistory}
     onUpdate={()=> {
-    /*
-      animateScroll.scrollToTop({
-        duration: 600,
-      });
-      */
-
       setTimeout(()=>window.scrollTo(0, 0), 300);
     }}>
     <Route path="/" component={App}>
