@@ -1,5 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 import autobind from 'react-autobind';
+import ga from 'react-google-analytics';
 
 import SillyWord from '../components/SillyWord';
 
@@ -26,10 +27,13 @@ class SillyWordContainer extends Component {
   }
 
   handleChangeWord() {
+    const newWord = words[this.props.type][Math.floor(Math.random() * words[this.props.type].length)];
     // Get a random word of the correct type
     this.setState({
-      word: words[this.props.type][Math.floor(Math.random() * words[this.props.type].length)]
+      word: newWord
     });
+
+    ga('send', 'event', 'madlibs', 'change', `${this.props.type}: ${newWord}`);
   }
 
   render() {
