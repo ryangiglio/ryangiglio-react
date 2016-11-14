@@ -10,10 +10,6 @@ const Resume = () => {
   return (
     <div className="Resume">
       <Header startingNoun="credentials" />
-      <section className="Resume__section">
-        <h2>Summary</h2>
-        <p className="lead">I am web developer with a focus on front-end and user experience. I love finding new and interesting ways to create on the web and am always looking for an opportunity to branch out beyond simple static websites into fun and interactive experiences.</p>
-      </section>
 
       <section className="Resume__section">
         <h2>Skills</h2>
@@ -22,7 +18,7 @@ const Resume = () => {
         <p>Stack: HTML, CSS (SCSS), Javascript (ES6/Babel), jQuery, PHP, WordPress</p>
         <p>Tools: Gulp, npm, Git</p>
 
-        <h3>Basic Knowledge</h3>
+        <h3>Working Knowledge</h3>
         <p>Web: React, Redux, Webpack, Angular, Backbone, Shopify, LAMP server administration</p>
         <p>Other: iOS Development w/ Swift, Unity 3D, C#, Java, C++</p>
       </section>
@@ -37,7 +33,7 @@ const Resume = () => {
 
         <h3>Lead Web Developer</h3>
         <h4>Nimble Division: 2011-2015</h4>
-        <p>I worked closely with the design team during the planning phase to determine the best approach for each client, and then executed, tested, and launched each project. For a time I was the sole developer, responsible for all the technical decisions and execution, but also managed a team of contract developers and led a small in-house team.</p>
+        <p>I worked closely with the design team during the planning phase to determine the best approach for each client, and then executed, tested, and launched each project. For a time I was the sole developer, responsible for all the technical decisions and execution, but also managed a team of contract developers and led a small in-house team. This group relocated together to join Nutmeg Creative.</p>
         <p><em>Sample Work</em> - <a href="http://www.tracx.com" target="_blank">Tracx website</a>, <a href="http://railex.com" target="_blank">Railex website</a>, <a href="http://nimbledivision.com" target="_blank"> Nimble Division website</a>, <a href="http://websterhallhistory.com/" target="_blank">Webster Hall interactive timeline</a>, <a href="http://qoid.com/" target="_blank">QoID scrolling Javascript animation</a></p>
 
         <h3>Web Developer</h3>
@@ -61,6 +57,13 @@ const Resume = () => {
         <p><em>Games</em> - I am a lifelong gamer, both console and PC, and I have a YouTube Let's Play channel <a href="https://www.youtube.com/user/SwordfishPlays">Swordfish Plays</a> where I play and talk about indie games. I also play tabletop Role Playing Games with a group of my friends and have Game Mastered a short Pathfinder campaign.</p>
         <p><em>Game Development</em> - I studied Game Design &amp; Development in college, and attend the annual Global Game Jam every year. My games have won multiple GGJ awards, including Best Use of the Theme, and Best Use of a Controller (twice!)</p>
       </section>
+
+      <section className="Resume__section">
+        <h2>PDF Download</h2>
+
+        <a className="btn btn-large btn-info" href="%PUBLIC_URL%/RyanGiglio-Resume.pdf">RyanGiglio-Resume.pdf</a>
+      </section>
+      
       <Navigation />
       <Footer />
     </div>
