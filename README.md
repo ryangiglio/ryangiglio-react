@@ -14,4 +14,4 @@ A: It's a React.js app, scaffolded by the [react-create-app](https://github.com/
 A: Because it seemed like a good way to prove to myself (and the world!) that I understand the basics. Obviously I realize it's hilariously overkill, but the structure and concepts are still relevant.
 
 ##### Q: Why is it so plain looking?
-A: *Hey! I like it!* I don't pretend to be a designer, so I tried to come up with a concept that would work with just text. It's supposed to feel like a Choose Your Own Adventure game. All the styles are from Bootstrap. If you want to see what pretty little trees I can paint with CSS, feel free to check out some of the stuff on the [work page](http://ryangiglio.com/work) ;)
+A: *Hey! I like it!* I don't pretend to be a designer, so I tried to come up with a concept that would work with just text. It's supposed to feel like a Choose Your Own Adventure game. All the styles are from [Bootstrap](http://getbootstrap.com/). If you want to see what pretty little trees I can paint with CSS, feel free to check out some of the stuff on the [work page](http://ryangiglio.com/work) ;)
