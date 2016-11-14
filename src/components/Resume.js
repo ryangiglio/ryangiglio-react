@@ -61,7 +61,7 @@ const Resume = () => {
       <section className="Resume__section">
         <h2>PDF Download</h2>
 
-        <a className="btn btn-large btn-info" href="%PUBLIC_URL%/RyanGiglio-Resume.pdf">RyanGiglio-Resume.pdf</a>
+        <a className="btn btn-large btn-info" href={`${process.env.PUBLIC_URL}/RyanGiglio-Resume.pdf`} target="_blank">RyanGiglio-Resume.pdf</a>
       </section>
       
       <Navigation />
