@@ -27,6 +27,19 @@ const Work = () => {
       </section>
 
       <section className="Work__project">
+        <h3><a href="http://counttodooku.com" target="_blank">Count Todo(oku)</a></h3>
+
+        <h4>Task Timer/Todo App</h4>
+        <p className="lead">Simple todo list manager that helps you keep track of how much time you've spent on your tasks. It's built with React and Redux, and uses redux-persist to save your tasks in localStorage. Source is on <a href="https://github.com/ryangiglio/counttodooku" target="_blank">Github</a>.</p>
+
+        <h5>Built With</h5>
+        <ul>
+          <li>React (ES6)</li>
+          <li>Redux</li>
+        </ul>
+      </section>
+
+      <section className="Work__project">
         <h3><a href="http://nutmegcreative.com" target="_blank">Nutmeg Creative</a></h3>
 
         <h4>Agency Portfolio Website</h4>
