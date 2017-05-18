@@ -15,11 +15,11 @@ const Resume = () => {
         <h2>Skills</h2>
 
         <h3>Professional Experience</h3>
-        <p>Stack: HTML, CSS (SCSS), Javascript (ES6/Babel), jQuery, PHP, WordPress</p>
-        <p>Tools: Gulp, npm, Git</p>
+        <p>Stack: HTML, CSS (Sass), Javascript (ES6/Babel), jQuery, React, Redux, PHP, WordPress</p>
+        <p>Tools: Gulp, npm/yarn, Git</p>
 
         <h3>Working Knowledge</h3>
-        <p>Web: React, Redux, Webpack, Angular, Backbone, Shopify, LAMP server administration</p>
+        <p>Web: Webpack, Angular, Backbone, Shopify, LAMP server administration</p>
         <p>Other: iOS Development w/ Swift, Unity 3D, C#, Java, C++</p>
       </section>
 
