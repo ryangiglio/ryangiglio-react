@@ -27,8 +27,8 @@ const Resume = () => {
         <h2>Work Experience</h2>
 
         <h3>Senior Front-End Developer</h3>
-        <h4>Nutmeg Creative: 2015-present</h4>
-        <p>As the lead developer on Nutmeg's branding and interactive team, I create websites and other digital marketing materials for our clients as well as internal passion projects and tools to help manage client relationships.</p>
+        <h4>Nutmeg Creative: 2015-2017</h4>
+        <p>As the lead developer on Nutmeg's branding and interactive team, I created websites and other digital marketing materials for our clients as well as internal passion projects and tools to help manage client relationships.</p>
         <p><em>Sample Work</em> - <a href="http://nycsubwayads.com" target="_blank">NYC Subway Ads</a>, <a href="http://nutmegcreative.com" target="_blank">Nutmeg's website</a></p>
 
         <h3>Lead Web Developer</h3>
