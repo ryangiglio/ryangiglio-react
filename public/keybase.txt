@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/ryangiglio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ryangiglio.com
+  * I am ryangiglio (https://keybase.io/ryangiglio) on keybase.
+  * I have a public key with fingerprint 906A 656D 4C92 7D07 6D1D  F153 E6E9 B702 9B99 A08B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012c3c778beae46b69ee1a6e9abd57574442c7afac1d027fb92a3e61ca9f47713a0a",
+            "fingerprint": "906a656d4c927d076d1df153e6e9b7029b99a08b",
+            "host": "keybase.io",
+            "key_id": "e6e9b7029b99a08b",
+            "kid": "01012c3c778beae46b69ee1a6e9abd57574442c7afac1d027fb92a3e61ca9f47713a0a",
+            "uid": "fd9d2dc154e4bd3f0243abce04945419",
+            "username": "ryangiglio"
+        },
+        "service": {
+            "hostname": "ryangiglio.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1480696910,
+    "expire_in": 157680000,
+    "prev": "432c3783f1fd74cad246432aad4022955930dc147259549c7a37472ce1805b8d",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMNBAnicrVJtUFRVGL6gRjDDx0CNRkzYbVREPu69ez/2rCGIMykaRFQTDth67r1n
+l8vH3m13WWCQMAJJGqdiUFgQNSX8TDH5WEb7QCExBRRCEaRColIqmXGGCZDqXKZ+
+1c/OnzPve57nOc/7zNvpu4jw8fjxXptnnevQex5XO2pzidT1DUmFpKjKBaShkMxC
+CxfKlpHdYcxSZNJAUjRFM5JOEgS9iCBieZEHCNGQRwCKMidwAsuyjCRAE5RomWIE
+kwgYqEM8LUFgYgWB1kEKkhGkSbGYkc1qUywOLAsoHvIcL7MSYASZEniZlk00h3kI
+iALFABEASOlFTMxQ7RoDmxOhHUUpKu7hwrhg7z/w/7Pv3AU5kwxkRpZojkWsKOtM
+FMPqoCghigUsx9JAA9qRzQJzEEbbCqDFrJizsdeiCBL3nYqEtGi1Wf6FiZLUHMy3
+2lSHKqnZ+C3D4bAaNKqjwKph85Bo/FvFKCoWGUeJCU5ksyuqhTTQGCk5FE2WZvUU
+D3hAUxEkyrcqNmRUNAQn8HoKH+0b5MSSrA6nI+h1JtokC6wEZYblcQ9CmaUYBnAc
+0FF4XlZgOMCxAAelE3AhIVpPcaJeJrW53rSopEHANqEZS9oVswU6cm2ILLrYkb6Y
+8PAhHlviqa0Y4eMd8M/iTaYGEG3bCh6+3zxxuuboB091pa9vDVQ7lh/TB97uWB41
+PvZcTeYL3lWTMGNd0xuDB/I2846KliBp+3Cgu3tDT3iZ3+8Djd+spULOuO+nJc5d
+HOevLZ2JO7P37Pk9WXlqdNBPS8M9F6WWJTfHPh0bH/lxuNeJlC0jugvhfs0pW09L
+R+u2lregw7Ue8WTM3necL2XHRPI7uouffbdlbNndnqQK/zS2tyeodI1I+938rBvo
+3zZ4l3eqrlaFuRPdULPmk6L2qI9OhoRe2REQ31QZ4GwzlPWNzF2pe/0rd15Up9Ny
+99ipw77J3vVNWZ+v/OGP3xIaHuSumG3cku6oidnd6n7wzIUw1+M5A2HqLzeCX63O
+/OLOXP1O6k8nsdF1ed914lurZz2oWuLbm+g1PU/V+/cPj9TuB5G3kspmk4+D8kvV
+XvPTjbEVD/NnPCvP72fPBW/uyAwcDY0wWbtvF65dNdHQ5x6bS/HOz4lkfrUcfJ4o
+JsjVYRPih/klXSdCbau2hW+ajx4OCkzY01ZfOrYy8dbUZMnNcxvfgpc/rerrWhzk
+X72brW0cvbHr+JHpUtfXP4eWF5PWhBXrPHrvD+Rxcb07T/FVT4Rsykyb2jf0aPze
+l42DREvG96nu0fbv4lxTG06WjK++dsTrFePsLnGwqd849Og6feDsVeNrlZeeHFpG
+m4NfHm0qG+tvr3xxe/bMX7r4xXk=
+=+hBN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryangiglio
+
+==================================================================

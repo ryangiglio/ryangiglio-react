@@ -11,7 +11,7 @@ const Work = () => {
       <h2>Projects</h2>
 
       <section className="Work__project">
-        <h3><a href="http://nycsubwayads.com" target="_blank">NYC Subway Ads</a></h3>
+        <h3><a href="http://nycsubway.buividllc.com" target="_blank">NYC Subway Ads</a></h3>
 
         <h4>Gallery/Showcase Website</h4>
         <p className="lead">Fully responsive interactive gallery website showcasing the best of New York City Subway advertising. The site is built as a custom WordPress theme (based on _s) with a full backend made up of custom fields and custom post types. The AJAX loading is done manually using a mix of jQuery $.ajax and the history API.</p>
